@@ -4,7 +4,7 @@
 ### 1. Project Overview
 The **Sanaag-Saaxil Economic Corridor** is a multi-dimensional development initiative designed to bridge the geographic and economic gap between the coastal hub of Berbera and the highland territories of Sanaag. This repository serves as the official repository for research, planning, and academic analysis of the project.
 
-**Focus Area:** Phase 1 – Road link between **Xarqo** and **Dhuurcilaan**.
+**Focus Area:** Phase 1 -District of Eilafwein – Road link between **Xarqo** and **Dhuurcilaan**.
 
 ### 2. Strategic Objectives
 This project is built upon three fundamental pillars:
