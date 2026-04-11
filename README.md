@@ -4,33 +4,36 @@
 ### 1. Project Overview
 The **Sanaag-Saaxil Economic Corridor** is a multi-dimensional development initiative designed to bridge the geographic and economic gap between the coastal hub of Berbera and the highland territories of Sanaag. This repository serves as the official repository for research, planning, and academic analysis of the project.
 
-**Focus Area:** Phase 1 -District of Eilafwein – Road link between **Xarqo** and **Dhuurcilaan**.
+**Focus Area:** Phase 1 - District of El-Afweyn – Road link between **Xarqo** and **Dhuurcilaan**.
+**Distance:** 120 KM.
 
 ### 2. Strategic Objectives
-This project is built upon three fundamental pillars:
+* **Human Mobility (Isku-socodka Dadka):** Modernizing transport links to facilitate safer, faster, and more affordable movement.
+* **Trade & Commerce (Ganacsiga):** Creating a logistics artery for livestock, Frankincense (Xabkaha), Mining, and agricultural exports to the Port of Berbera.
+* **Eco-Tourism (Dalxiiska):** Unlocking the potential of the Golis Range (Daallo, Cal Madow, Buuraha Xabkaha iyo Fuleenka).
 
-* **Human Mobility (Isku-socodka Dadka):** Modernizing transport links to facilitate safer, faster, and more affordable movement for the citizens of both regions.
-* **Trade & Commerce (Ganacsiga):** Creating a direct logistics artery from the productive pastoral zones of Sanaag to the Port of Berbera, reducing transaction costs for livestock,frankwencess, Mining and agricultural exports.
-* **Eco-Tourism (Dalxiiska):** Unlocking the untapped potential of Sanaag’s natural beauty (e.g., Daallo, Cal Madow,Buuraha Xabkaha iyo Fuleenka ee silsilada golis) by creating an accessible "Coastal-to-Highland" tourist circuit.
+### 3. Execution Timeline & Financials
+To ensure rapid development (Fast-Track), the project is structured as follows:
+* **Duration:** 18 - 24 Months (Phase 1 Completion).
+* **Phase 1 Mobilization Budget:** $3,000,000 USD.
+* **Total Project Valuation:** $15,000,000 USD (Full Asphalt Standard).
 
-### 3. Scope of Phase 1: Xarqo – Dhuurcilaan
-Phase 1 focuses on the critical initial stretch of the route. This stage involves:
-* Topographical analysis and terrain assessment.
-* Socio-economic impact studies on local communities.
-* Environmental preservation planning for the surrounding biosphere.
+### 4. Project Documentation (Quick Links)
+Click the links below to access detailed project modules:
 
-### 4. Project Governance
+* 🛠 [Technical & Engineering Analysis](PHASE1_TECHNICAL.md) - Terrain and Drainage details.
+* 🏗 [Resources & Equipment](RESOURCES_AND_EQUIPMENT.md) - Machinery and Workforce (Fast-Track).
+* 💰 [Budget Estimation](ESTIMATION_PHASE1.md) - Financial breakdown for Phase 1.
+* 📈 [Trade & Mining Impact](TRADE_AND_MINING.md) - Analysis of Resins, Minerals, and Exports.
+* 🌲 [Tourism Masterplan](TOURISM_MASTERPLAN.md) - Sustainable Highland Tourism.
+* ⚖️ [Legal & Xeer Framework](LEGAL_XEER.md) - Governance and local coordination.
+* 🚀 [Strategic Roadmap](STRATEGY.md) - Vision 2030 and Regional Integration.
+
+### 5. Project Governance
 * **Institutional Lead:** SPH Global Research
 * **Directorate:** Ahmed Ismail Saed Hussein (Founder & CEO)
 * **Classification:** Strategic Infrastructure / Academic Proposal
 * **Status:** Research & Analysis Phase
-
-### 5. Repository Structure (Planned)
-The following files will be populated during the analysis phase:
-* `STRATEGY.md`: Deep dive into the regional integration goals.
-* `TRADE_IMPACT.md`: Economic modeling for livestock and goods transport.
-* `TOURISM_MASTERPLAN.md`: Framework for sustainable tourism development.
-* `LEGAL_XEER.md`: Customary and institutional rules for regional cooperation.
 
 ---
 *© 2026 SPH Global Research. All rights reserved. This documentation is part of an ongoing strategic study.*
