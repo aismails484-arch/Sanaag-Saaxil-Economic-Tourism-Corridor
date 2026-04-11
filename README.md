@@ -11,7 +11,7 @@ This project is built upon three fundamental pillars:
 
 * **Human Mobility (Isku-socodka Dadka):** Modernizing transport links to facilitate safer, faster, and more affordable movement for the citizens of both regions.
 * **Trade & Commerce (Ganacsiga):** Creating a direct logistics artery from the productive pastoral zones of Sanaag to the Port of Berbera, reducing transaction costs for livestock and agricultural exports.
-* **Eco-Tourism (Dalxiiska):** Unlocking the untapped potential of Sanaag’s natural beauty (e.g., Daallo, Cal Madow) by creating an accessible "Coastal-to-Highland" tourist circuit.
+* **Eco-Tourism (Dalxiiska):** Unlocking the untapped potential of Sanaag’s natural beauty (e.g., Daallo, Cal Madow,Buuraha Xabkaha iyo Fuleenka ee silsilada golis) by creating an accessible "Coastal-to-Highland" tourist circuit.
 
 ### 3. Scope of Phase 1: Xarqo – Dhuurcilaan
 Phase 1 focuses on the critical initial stretch of the route. This stage involves:
